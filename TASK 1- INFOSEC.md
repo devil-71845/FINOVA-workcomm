@@ -55,7 +55,6 @@ bandit1@bandit:~$ cat ./-
 
 ## Conclusion
  Now I must use the password I just got in bandit1 to log in into bandit2 and solve the next challenge
-```
 
 ---
 
@@ -83,7 +82,6 @@ MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
 ## Conclusion
  Now I must use the password I just got in bandit2 to log in into bandit3 and solve the next challenge
-```
 
 ---
 
@@ -114,7 +112,6 @@ bandit3@bandit:~/inhere$ cat ./...Hiding-From-You
 
 ## Conclusion
  Now I must use the password I just got in bandit3 to log in into bandit4 and solve the next challenge
-```
 
 ---
 
@@ -159,7 +156,5 @@ bandit4@bandit:~/inhere$ cat ./-file07
 
 ## Conclusion
  Now I must use the password I just got in bandit4 to log in into bandit5 and solve the next challenge
-```
 
 ---
-
