@@ -1,7 +1,7 @@
 # Writeup 10
 
 ## Challenge Name
-FIND HUMAN-READABLE STRINGS IN A BINARY FILE
+FILE INSPECTION
 
 ---
 
