@@ -1,7 +1,7 @@
 # Writeup 7
 
 ## Challenge Name
-FIND FILE BY USER, GROUP AND SIZE
+FIND PERMISSION AND OWNERSHIP
 
 ---
 
