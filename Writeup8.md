@@ -1,7 +1,7 @@
 # Writeup 8
 
 ## Challenge Name
-FIND SPECIFIC WORD IN A LARGE FILE
+SEARCHING FILE CONTENTS
 
 ---
 
